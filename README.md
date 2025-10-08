@@ -3,7 +3,9 @@
     <div align="center">
     <h2> Welcome To My GitHub!⚡</h2>
 </p>
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto" />
+</p>
 <div align="center">
   <h1>Hello , I'm Shinde Vyankatesh Dattatray ( Aka : rootxploit.0x ) ✨</h1>
  <a href="https://git.io/typing-svg">
