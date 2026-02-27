@@ -30,7 +30,7 @@ Hi there, I'm lucifer0xf 👋
     <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300" alt="Cybersecurity Animation">
 </div></br>
 
-👀 Aspiring Ethical Hacker And Penetration Tester & Committed To Mastering CyberSecurity.
+👀 Aspiring Red Teamer & Committed To Mastering Offensive Security.
 
 🌱 Currently Pursuing a Bachelor's Of Technology in Artificial Intellegince & Data Science Engineering To Deepen Technical Expertise.
 
