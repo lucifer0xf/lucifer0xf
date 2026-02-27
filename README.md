@@ -11,9 +11,6 @@
  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+Journey+To+Become+A+Great+Hacker" alt="Typing SVG" />
   </a></br>
-<div align="center">
-    <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300" alt="Cybersecurity Animation">
-</div></br>
   <a href="https://github.com/silentfalcon/">
     <img src="https://img.shields.io/github/followers/silentfalcon?style=social" alt="GitHub Followers">
   </a>
@@ -23,11 +20,15 @@
     <br>
 </div>
 
----
+<br>
 
 <!-- About Me Section -->
 
 Hi there, I'm lucifer0xf 👋
+
+<div align="center">
+    <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300" alt="Cybersecurity Animation">
+</div></br>
 
 👀 Aspiring Ethical Hacker And Penetration Tester & Committed To Mastering CyberSecurity.
 
@@ -38,7 +39,6 @@ Hi there, I'm lucifer0xf 👋
 📫 Let's Connect On LinkedIn: https://www.linkedin.com/in/vyankatesh-shinde-%F0%9F%87%AE%F0%9F%87%B3-2bb222219/
 
 <!-- Skills Section -->
----
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
@@ -61,15 +61,9 @@ Hi there, I'm lucifer0xf 👋
   </div>
 </div>
 
----
-
 <!-- Stats Section -->
 ## 📊 GitHub Stats
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silentfalcon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=chartreuse-dark&hide_border=false&order=2&disable_animations=false" height="160" alt="languages graph" />
-</div>
-
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucifer0xf&show_icons=true&theme=radical"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer0xf&theme=radical"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
 
 <!-- Contact Section -->
 ## 📫 Connect with Me
@@ -90,8 +84,6 @@ Hi there, I'm lucifer0xf 👋
     <img src="https://img.shields.io/badge/Medium-Connect-blue?logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
 </div>
-
----
 
 <!-- Footer -->
 <div align="center">
