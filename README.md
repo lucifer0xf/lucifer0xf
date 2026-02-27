@@ -36,7 +36,6 @@ Hi there, I'm lucifer0xf 👋
 
 💼 Seeking Collaboration On Challenging Projects That Advance CyberSecurity Practices.
 
-📫 Let's Connect On LinkedIn: https://www.linkedin.com/in/vyankatesh-shinde-%F0%9F%87%AE%F0%9F%87%B3-2bb222219/
 
 <!-- Skills Section -->
 
