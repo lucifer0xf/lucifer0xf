@@ -57,6 +57,24 @@ Hi there, I'm lucifer0xf 👋
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
       <img src="https://img.shields.io/badge/Medium-000010?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+      <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&color=000000" alt="Nmap" />
+      <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&color=000000" alt="OWASP ZAP" />
+      <img src="https://img.shields.io/badge/Nikto-222222?style=for-the-badge&logo=hackaday&color=000000" alt="Nikto" />
+      <img src="https://img.shields.io/badge/Gobuster-FF6F00?style=for-the-badge&logo=gnu-bash&color=000000" alt="Gobuster" />
+      <img src="https://img.shields.io/badge/Dirsearch-3A3A3A?style=for-the-badge&logo=python&color=000000" alt="Dirsearch" />
+      <img src="https://img.shields.io/badge/Amass-005F99?style=for-the-badge&logo=apache&color=000000" alt="Amass" />
+      <img src="https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logo=gnupg&color=000000" alt="John the Ripper" />
+      <img src="https://img.shields.io/badge/Hydra-990000?style=for-the-badge&logo=linux&color=000000" alt="Hydra" />
+      <img src="https://img.shields.io/badge/SQLmap-800000?style=for-the-badge&logo=mysql&color=000000" alt="SQLmap" />
+      <img src="https://img.shields.io/badge/Netcat-444444?style=for-the-badge&logo=gnu&color=000000" alt="Netcat" />
+      <img src="https://img.shields.io/badge/Social_Engineering-222831?style=for-the-badge&logo=protonmail&color=000000" alt="Social Engineering" />
+      <img src="https://img.shields.io/badge/Threat_Hunting-2F4F4F?style=for-the-badge&logo=target&color=000000" alt="Threat Hunting" />
+      <img src="https://img.shields.io/badge/Splunk-FF8000?style=for-the-badge&logo=splunk&color=000000" alt="Splunk" />
+      <img src="https://img.shields.io/badge/SIEM-1E90FF?style=for-the-badge&logo=splunk&color=000000" alt="SIEM" />
+      <img src="https://img.shields.io/badge/Bug_Bounty-FF4500?style=for-the-badge&logo=hackthebox&color=000000" alt="Bug Bounty" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
+      <img src="https://img.shields.io/badge/DevSecOps-0A0A0A?style=for-the-badge&logo=github&color=000000" alt="DevSecOps" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&color=000000" alt="Kubernetes" />
   </div>
 </div>
 
